@@ -1,1 +1,1 @@
-# caladan-client-server-rdma
+# client-server-caladan
